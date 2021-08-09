@@ -16,7 +16,7 @@ namespace CustomerApiService.Controllers
         {
             new Customer()
                 {
-                   CustomerId = 1,CustomerName = "Mukesh Kumar", Address = "New Delhi", State = "IT"
+                   CustomerId = 1,CustomerName = "Mukesh r Kumar", Address = "New Delhi", State = "IT"
                 },
                 new Customer()
                 {
